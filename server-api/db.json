@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "b41345b9-51a5-4a2d-99d9-0cd4dcc02ae6",
+      "name": "USHA H R",
+      "email": "ushahr1831@gmail.com"
+    },
+    {
+      "id": "292d5c91-ebad-414c-98a9-e1b7dec4d7ae",
+      "name": "Teja",
+      "email": "teja@gmail.com"
+    },
+    {
+      "id": "6e06562b-d73e-4f77-b9b9-9a4a628e5157",
+      "name": "tejaswi",
+      "email": "tejaswi@gmail.com"
+    },
+    {
+      "id": "c828a3ab-2efa-4606-b610-d425b919f016",
+      "name": "jpraja",
+      "email": "jp@gmail.com"
+    }
+  ]
+}
